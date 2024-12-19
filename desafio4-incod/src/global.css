@@ -1,0 +1,23 @@
+:root {
+    --fundo:#151619;
+    --branco:#fff;
+    --roxo000:#5b0fd6;
+    --roxo001:#621AD6;
+    --roxo002:#8F45F0;
+    --roxo003:#681CE3;
+    --cinza001:#1A1B1F;
+    --cinza002:#222328;
+    --cinza003:#A3A4A5;
+    --cinza004:#303138;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: var(--fundo);
+    color: var(--branco);
+    font-family: "Manrope", serif;
+}
